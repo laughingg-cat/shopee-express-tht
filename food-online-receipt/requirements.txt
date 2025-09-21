@@ -1,0 +1,7 @@
+gradio==5.46.1
+pytesseract==0.3.13
+Pillow==11.1.0
+opencv-python==4.11.0.86
+openai==1.108.1
+numpy==2.1.1
+requests==2.31.0
